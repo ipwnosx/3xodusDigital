@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: LowKey
+Components: main
+Date: Wed, 22 Jul 2020 22:08:32 +0000
+Description: DankShitM8
+Label: omnilabs.design
+Origin: 3XODUS_RED
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 71f04272844b17df3683609cf0e0ea17            76488 Packages
+ b6f6e8b0b9d07f880de402a8582c8030            23939 Packages.bz2
+ 6afa4be8d073a05c6353e3a0790af696            27476 Packages.gz
+ d745fd50e551f5639a33c6af555bf348            24288 Packages.xz
+ c5deb960562b07352ec0be53e73f0d20            25052 Packages.zst
+ aff951e21087788efac4f29b4bcc992f              193 Release
+SHA1:
+ dcd7f5f054d0f402ede14d407b954999e3f5d1ce            76488 Packages
+ 80da6bc3e7821f90f2c8ecbeaa6b0ca0f60e1355            23939 Packages.bz2
+ 5816e1ada0b477ed065fcf19683b2db7efe160b9            27476 Packages.gz
+ 15ca69f5980398ebbbc50d86a0cc7950f4d23235            24288 Packages.xz
+ 80fdbaa414be88e5e0ae17914b549adacdf788f5            25052 Packages.zst
+ 8d39a6e18069cf6a76cb855fda3f7ab6c12c423c              193 Release
+SHA256:
+ 9a4b7f792b871d69ae8e665bb491a269e340a58b5aa4239510738a57cd22b2b6            76488 Packages
+ 98e2dacdb311124c173c1988ae457f39e75140d015c0d3a6adbda3a9cfb182c5            23939 Packages.bz2
+ 902dd646a80c756ba585a3a0c98d68b249885fe8a8cbd7662345b10a80382002            27476 Packages.gz
+ 92d98fe4a0c3cc4119ae4ae4453fcc364328a6225336e5bcdbc7895ce2c2e941            24288 Packages.xz
+ d3aa95cf011e5182ab30556e70a13b22d96ca371bdd17d011a92233bb0f7dc0c            25052 Packages.zst
+ ba1251a2ec5d548b3ea9edd913c57e142350154587d5150b0bf575c670fc08c3              193 Release
+SHA512:
+ 5a78dfc53f35d9fea89244f998d879139c4e7016a613de7bd7e28b2c9431dd0f2586992f6f5b0d135a22c204d12d98e09e1843858ef37553fd2048a776ddb1e1            76488 Packages
+ 72108b1f98cfb6788f87ff6225b18e5bbc05ff762ff56b4eb4d34bbc42eb1e2210da2a49f8976671f1e6957aa5f92db6c76b45ca51e249ebb235c9ef9844c5ed            23939 Packages.bz2
+ 48ed639a2e9f631e9d83cd5ec98d456bac53d878c32404409730f406782c6b8322cfebbf2cac6b6b64888838b349918450250a5aa6b68702bd94b2e9be4f1d8b            27476 Packages.gz
+ 81994d9790bd2516ae348bbe513ec478946d9a6f2b9af603fcdd245c82b56f9d63dc3544961495a0f59d7d018e8a10a036a005d55bd78e44c264c70f776536ec            24288 Packages.xz
+ fcf667b8d2bfcd1b54eef35d22e6d948c1db49be782389ee699d8853c3e82eb9fff00117617f2db5255260d613cb5d021dc5b5d06a4fff4bd8d22645eef87787            25052 Packages.zst
+ 649d8227102e5b8450124930fa74dbd368e5f98b1814169e88b1ee9e7b20bda827f0325626a049b24d0ddcb467e6e690a1b557e9a26f97542c11e0ba2ebfe068              193 Release
